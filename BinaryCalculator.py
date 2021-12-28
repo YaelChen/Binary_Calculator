@@ -66,4 +66,4 @@ def dec_to_bin(dec_num):
 
 
 # print(dec_to_bin(0))
-print(dec_to_bin(input("insert a decimal number to convert: ")))
+print(dec_to_bin(int(input("insert a decimal number to convert: "))))
