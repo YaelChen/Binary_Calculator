@@ -1,2 +1,2 @@
 # Binary_Calculator
-Programs to convert any binary number to a decimal number and any decimal to binary.
+Programs to convert any binary number to a decimal number and any decimal number to binary.
